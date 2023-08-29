@@ -1,3 +1,13 @@
+Completed project screenshot:
+![Alt text](./assets/images/module-1-proj-screenshot.png)
+
+URL Link to completed project:
+   https://rtrevill.github.io/Module-1-Challenge/
+
+URL Link to github repository for project:
+  https://github.com/rtrevill/Module-1-Challenge
+  
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
