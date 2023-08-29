@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* Header with logo on left and floating nav links on right */
 
 .header {
     padding: 20px;
@@ -46,6 +47,8 @@ a {
     text-decoration: none;
 }
 
+/* Main picture */
+
 #team-meeting {
     height: 800px;
     width: 100%;
@@ -53,7 +56,7 @@ a {
     object-fit: cover;
     object-position: center;
 }
-
+/* .content cards positioned to left of page, with images */
 .content {
     width: 75%;
     display: inline-block;
@@ -75,7 +78,7 @@ p {
     margin-left: 25px;
 }
 
-
+/* .benefits block positioned to right of page with 3 content parts*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +124,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer section with centered and sized content */
 .footer {
     padding: 30px;
     clear: both;
